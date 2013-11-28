@@ -7,6 +7,8 @@ gem 'rails', '3.2.14'
 
 gem 'pg'
 gem 'sass-rails',   '~> 3.2.3'
+gem 'twitter-bootstrap-rails'
+
 
 
 # Gems used only for assets and not required
